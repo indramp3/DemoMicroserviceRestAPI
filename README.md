@@ -18,8 +18,8 @@ Ensure you have a MySQL server running with the following credentials:
 - **Host**: 127.0.0.1
 - **Port**: 3306
 - **Database Name**: `demo_bank` (Create this database manually if it doesn't exist: `CREATE DATABASE demo_bank;`)
-- **Username**: root
-- **Password**: root
+- **Username**: *****
+- **Password**: *****
 
 The `account` microservice will automatically create/update the `ACCOUNT_MASTER` table using Hibernate.
 
