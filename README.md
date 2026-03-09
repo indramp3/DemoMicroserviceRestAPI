@@ -7,7 +7,7 @@ This project consists of two simple Spring Boot microservices:
 
 ## Prerequisites
 
-- Java 17
+- Java 21
 - Maven
 - MySQL Database
 
